@@ -1,5 +1,5 @@
 
-### Demo: [githubfinder-demo-2130.netlify.app](githubfinder-demo-2130.netlify.app)
+### Demo: [githubfinder-demo-2130.netlify.app](https://githubfinder-demo-2130.netlify.app/)
 
 ---
 
