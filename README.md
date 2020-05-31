@@ -1,5 +1,10 @@
+
+## Demo: [githubfinder-demo-2130.netlify.app](githubfinder-demo-2130.netlify.app)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## DEMO Site : githubfinder-demo-2130.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
